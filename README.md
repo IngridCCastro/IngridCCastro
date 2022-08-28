@@ -1,4 +1,4 @@
-👋 Olá! Eu sou a Ingrid Castro
+👋 Olá! Me chamo Ingrid de Castro.
 
 Como você está?? Espero que esteja tudo bem! <3
 
