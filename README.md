@@ -11,3 +11,5 @@ Como você está?? Espero que esteja tudo bem! <3
 
 💻 Atualmente, sou uma das sócias e desenvolvedoras de uma plataforma que têm o objetivo de ajudar crianças diagnosticadas com TEA(Transtorno do Espectro Autista).
 
+![snake gif](https://github.com/IngridCCastro/IngridCCastro/blob/output/github-contribution-grid-snake.svg)
+
