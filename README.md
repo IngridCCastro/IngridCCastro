@@ -1,4 +1,4 @@
-👋 Olá! Seja Bem Vind@ ao meu perfil.
+### 👋 Olá! Seja Bem Vind@ ao meu perfil.
 
 Como você está?? Espero que esteja tudo bem! <3
 
@@ -11,7 +11,8 @@ Como você está?? Espero que esteja tudo bem! <3
 
 💻 Atualmente, sou uma das sócias e desenvolvedoras de uma plataforma que têm o objetivo de ajudar crianças diagnosticadas com TEA(Transtorno do Espectro Autista).
 
-💁 Essa é a quantidade de pessoas que visitaram o meu perfil: 
+### 💁 Essa é a quantidade de pessoas que visitaram o meu perfil: 
+
 <img src="https://profile-counter.glitch.me/{IngridCCastro}/count.svg" alt="Ingrid :: Visitor's Count" />
 
 
@@ -29,6 +30,7 @@ Como você está?? Espero que esteja tudo bem! <3
 </div>        
 
 ### Ferramentas e Tecnologias utilizadas constantemente
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Tici-git" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Tici-github" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -41,7 +43,7 @@ Como você está?? Espero que esteja tudo bem! <3
 </div>
           
           
-📕 Estou em constante aprendizado, afinal, nunca paramos de aprender.
+### 📕 Estou em constante aprendizado, afinal, nunca paramos de aprender.
 
 
 <div style="display: inline_block"><br>
@@ -53,7 +55,7 @@ Como você está?? Espero que esteja tudo bem! <3
 </div>                                        
 
 
-
+### 💻 Contribuições
 
 ![snake gif](https://github.com/IngridCCastro/IngridCCastro/blob/output/github-contribution-grid-snake.svg)
 
