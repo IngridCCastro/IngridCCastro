@@ -4,8 +4,12 @@ Como você está?? Espero que esteja tudo bem! <3
 
 
 👩‍💻 Faço parte do curso de técnico em Informática, no Instituto Federal do Ceará.
+
 🙃 Tenho interesse por tecnologia, design, administração, direito e etc.
+
 🤔 Ainda estou pensando no meu futuro...
+
+💻 Atualmente, sou uma das sócias e desenvolvedoras de uma plataforma que têm o objetivo de ajudar crianças diagnosticadas com TEA(Transtorno do Espectro Autista).
 
 💁 Essa é a quantidade de pessoas que visitaram o meu perfil: 
 <img src="https://profile-counter.glitch.me/{IngridCCastro}/count.svg" alt="Ingrid :: Visitor's Count" />
@@ -20,8 +24,8 @@ Como você está?? Espero que esteja tudo bem! <3
 
 <div>
 <a href="https://github.com/Ticianebarros">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ticianebarros&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ticianebarros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridCCastro&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridCCastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>        
 
 ### Ferramentas e Tecnologias utilizadas constantemente
@@ -36,7 +40,9 @@ Como você está?? Espero que esteja tudo bem! <3
 <img align="center" alt="Tici-javascript" width="30" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
           
+          
 📕 Estou em constante aprendizado, afinal, nunca paramos de aprender.
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Tici-figma" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -47,7 +53,7 @@ Como você está?? Espero que esteja tudo bem! <3
 </div>                                        
 
 
-💻 Atualmente, sou uma das sócias e desenvolvedoras de uma plataforma que têm o objetivo de ajudar crianças diagnosticadas com TEA(Transtorno do Espectro Autista).
+
 
 ![snake gif](https://github.com/IngridCCastro/IngridCCastro/blob/output/github-contribution-grid-snake.svg)
 
