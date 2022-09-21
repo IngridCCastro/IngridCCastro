@@ -32,6 +32,9 @@ Como você está?? Espero que esteja tudo bem! <3
 ### Ferramentas e Tecnologias utilizadas constantemente
 
 <div style="display: inline_block"><br>
+ 
+<img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
 <img align="center" alt="Tici-git" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Tici-github" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt="Tici-android" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
@@ -52,6 +55,7 @@ Como você está?? Espero que esteja tudo bem! <3
 <img align="center" alt="Tici-css3" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
 <img align="center" alt="Tici-javascript" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Tici-django" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" />
+<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>                                        
 
 
