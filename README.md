@@ -62,5 +62,5 @@ Como você está?? Espero que esteja tudo bem! <3
 
 ### 💻 Contribuições
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellen2121/IngridCCastro/blob/output/github-contribution-grid-snake.svg)
 
