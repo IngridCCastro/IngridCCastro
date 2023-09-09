@@ -60,7 +60,4 @@ Como você está?? Espero que esteja tudo bem! <3
 </div>                                        
 
 
-### 💻 Contribuições
-
-![Snake animation](https://github.com/ellen2121/IngridCCastro/blob/output/github-contribution-grid-snake.svg)
 
