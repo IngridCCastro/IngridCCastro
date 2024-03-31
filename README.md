@@ -3,11 +3,11 @@
 Como você está?? Espero que esteja tudo bem! <3
 
 
-👩‍💻 Curso Técnico em Informática, no Instituto Federal do Ceará.
+👩‍💻 Técnica em Informática, pelo Instituto Federal do Ceará.
 
 👩‍💻 Graduando Bacharelado em Ciência da Computação.
 
-🙃 Tenho interesse por tecnologia, design, administração, direito e etc.
+🙃 Tenho interesse por tecnologia, design, direito, libras, acessibilidade e etc.
 
 
 💻 Sou uma das sócias e desenvolvedoras de uma plataforma que têm o objetivo de ajudar crianças diagnosticadas com TEA(Transtorno do Espectro Autista).
